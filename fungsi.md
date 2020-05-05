@@ -110,3 +110,26 @@ int sum (int x, int y)
     return (x + y);
 }
 ```
+
+### latihan:
+```C++
+int main()
+{
+    int a = 10;
+    int b = 20;
+    int c = tambah (a, b);    //calling the function
+    int d = kali (a, b);    //calling the function
+    
+    say_mahasiswa();
+    cout << "a + b = " << c << "\n";
+    cout << "a * b = " << d << "\n";
+}
+
+Run:
+  Nama  : Nurcahyo Budi
+  Kelas : 2SIA5
+  a + b = 30
+  a * b = 200
+
+```
+
