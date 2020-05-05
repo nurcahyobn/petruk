@@ -5,5 +5,5 @@
 
 ### Pert-2: Perulangan (*Looping*)
 
-### Pert-3: [Menggunakan Fungsi (*Function*)](https://github.com/nurcahyobn/petruk/edit/master/README.md)
+### Pert-3: [Menggunakan Fungsi (*Function*)](https://github.com/nurcahyobn/petruk/blob/master/fungsi.md)
 
