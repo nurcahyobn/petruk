@@ -18,13 +18,13 @@ if (booleanExpression) {
 }
 ```
 
-![if](/flowchar-if-simple.png)
+![a](/flow-if-sample.png)
 
 Percabangan if merupakan percabangan yang hanya memiliki satu blok pilihan saat kondisi bernilai benar.
 
 Coba perhatikan flowchart berikut ini:
 
-![if](/flowchar-if-simple2.png)
+![if](/flowchart-if-sample2.png)
 
 Flowchart tersebut dapat kita baca seperti ini:
 
