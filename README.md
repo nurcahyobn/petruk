@@ -7,4 +7,4 @@
 
 ### Pert-3: [Menggunakan Fungsi (*Function*)](https://github.com/nurcahyobn/petruk/blob/master/fungsi.md)
 
-### Pert-4: [Kendali perintah](https://github.com/nurcahyobn/petruk/blob/master/kendal.md)
+### Pert-4: [Kendali perintah](/kendal.md)
