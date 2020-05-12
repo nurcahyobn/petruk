@@ -5,6 +5,6 @@
 
 ### Pert-2: Perulangan (*Looping*)
 
-### Pert-3: [Menggunakan Fungsi (*Function*)](https://github.com/nurcahyobn/petruk/blob/master/fungsi.md)
+### Pert-3: [Menggunakan Fungsi (*Function*)](/fungsi.html)
 
-### Pert-4: [Kendali perintah](/kendal.md)
+### Pert-4: [Kendali perintah](/kendal.html)
