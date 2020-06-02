@@ -29,8 +29,8 @@ Tabel : Mahasiswa
 
 nama | usia
 --- | ---
-Agus |Salim
-23 |22
+Agus |23
+Salim |22
 
 * nama merupakan variabel  bertipe char atau string. 
 * usia merupakan variabel  bertipe int.
@@ -59,3 +59,10 @@ int main(){
     return 0;
 }
 ```
+
+## Latihan: buat Record untuk data berikut
+
+barang | jumlah | harga
+--- | ---
+Buku |2 | 7000
+Pensil |3 | 3000
