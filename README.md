@@ -9,4 +9,4 @@
 
 ### Pert-4: [Kendali perintah](/kendal.md)
 
-### Pert-5: [Struct atau Record](/kendal.md)
+### Pert-5: [Struct atau Record](/struct.md)
