@@ -26,6 +26,7 @@ struct <namatipe>
 ```
 
 Tabel : Mahasiswa
+
 nama | usia
 --- | ---
 Agus |Salim
