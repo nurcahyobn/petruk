@@ -63,6 +63,6 @@ int main(){
 ## Latihan: buat Record untuk data berikut
 
 barang | jumlah | harga
---- | ---
+--- | --- | ---
 Buku |2 | 7000
 Pensil |3 | 3000
