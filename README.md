@@ -57,17 +57,21 @@ namanasabah | saldo_awal | setor | fungsi `Tambah`
 --- | --- | --- | --- | 
 nurcahyo | 70000 | 25000 | 85000
 
-> QUIS-1 struct `Transaksi` kode program dan foto hasil
 
-namabarang | jumlah | harga | fungsi `Perkalian`
+## Quis-1 : Perulangan dan Struct-Fungsi
+
+> 1. Perulangan for `12 10 8 6 4`
+> 2. struct `Piutang` 
+
+nama | jumlah_hutan | bayar | fungsi `Pengurangan`
 --- | --- | --- | --- | 
-buku | 3 | 40000 | 120000
+andre | 200000 | 50000 | 150000
 
 `Run:`
 
 ```c++
-input nama barang  : buku
-input jumlah       : 3
-input harga satuan : 40000
-total bayar        : 120000
+input nama          : andi (nama mahasiswa)
+input jumlah hutang : 200000
+input pembayaran    : 50000
+sisa hutang         : 150000
 ```
