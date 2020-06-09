@@ -56,18 +56,3 @@ int main() {
 namanasabah | saldo_awal | setor | fungsi `Tambah`
 --- | --- | --- | --- | 
 nurcahyo | 70000 | 25000 | 85000
-
-> QUIS-1 struct `Pinjaman` kode program dan foto hasil
-
-namaanggota | jumlahpinjam | lamapinjam | fungsi `Angsuran`
---- | --- | --- | --- | 
-andre | 200000 | 4 | 50000
-
-`Run:`
-
-```
-input nama anggota  : andre (nama mahasiswa)
-input jumlah pinjam : 200000
-input lama pinjam   : 4
-angsuran bulanan.   : 50000
-```
