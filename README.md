@@ -56,3 +56,18 @@ int main() {
 namanasabah | saldo_awal | setor | fungsi `Tambah`
 --- | --- | --- | --- | 
 nurcahyo | 70000 | 25000 | 85000
+
+> QUIS-1 struct `Transaksi` kode program dan foto hasil
+
+namabarang | jumlah | harga | fungsi `Perkalian`
+--- | --- | --- | --- | 
+buku | 3 | 40000 | 120000
+
+`Run:`
+
+```c++
+input nama barang  : buku
+input jumlah       : 3
+input harga satuan : 40000
+total bayar        : 120000
+```
