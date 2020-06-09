@@ -51,8 +51,15 @@ int main() {
 }
 ```
 
-> Struct atau Record `Tabungan Nasabah`
+> Struct atau Record `Tabungan Nasabah` dan hasil
 
-```c++
+namanasabah | saldo_awal | setor | fungsi `Tambah`
+--- | --- | --- | --- | 
+nurcahyo | 70000 | 25000 | 85000
 
-```
+> QUIS-1 struct `Pinjaman`
+
+? | ? | ? | fungsi `Angsuran`
+--- | --- | --- | --- | 
+? | ? | ? | ?
+
